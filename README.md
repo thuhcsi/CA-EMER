@@ -1,6 +1,6 @@
 # Evaluating and Improving Explanation Coherence for Multimodal Emotion Recognition
 
-[![Hugging Face](https://img.shields.io/badge/🤗HuggingFace-our_model-yellow)](https://huggingface.co/Anonymous23701/CA-EMER-HumanOmni-7B) [![Demo Page](https://img.shields.io/badge/👀-Demo_Page-blue)](https://thuhcsi.github.io/AnonymousICME2026/)
+[![Hugging Face](https://img.shields.io/badge/🤗HuggingFace-our_model-yellow)](https://huggingface.co/Anonymous23701/CA-EMER-HumanOmni-7B) [![Demo Page](https://img.shields.io/badge/👀-Demo_Page-blue)](https://thuhcsi.github.io/CA-EMER)
 
 The official repository for "Evaluating and Improving Explanation Coherence for Multimodal Emotion Recognition".
 
